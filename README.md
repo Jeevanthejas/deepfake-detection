@@ -1,73 +1,29 @@
-# Welcome to your Lovable project
+My Project
+Project Overview
 
-## Project info
+This is a React-based web application built with modern frontend technologies. It provides a clean and efficient development setup using Vite, TypeScript, Tailwind CSS, and shadcn-ui for UI components.
 
-**URL**: https://lovable.dev/projects/74d84780-5271-4301-b7ea-e0eb1b7049f5
+Technologies Used
 
-## How can I edit this code?
+Frontend: React, TypeScript
+UI Framework: Tailwind CSS, shadcn-ui
+Build Tool: Vite
+Package Manager: npm / yarn
 
-There are several ways of editing your application.
+Follow these steps to set up and run the project locally:
 
-**Use Lovable**
+# Step 1: Clone this repository
+git clone https://github.com/Jeevanthejas/deepfake-detection.git
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/74d84780-5271-4301-b7ea-e0eb1b7049f5) and start prompting.
+# Step 2: Navigate to the project directory
+cd deepfake-detection
 
-Changes made via Lovable will be committed automatically to this repo.
+# Step 3: Install dependencies
+npm install
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+After running the development server, you can open the app in your browser at http://localhost:5173 (default Vite port).
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/74d84780-5271-4301-b7ea-e0eb1b7049f5) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
